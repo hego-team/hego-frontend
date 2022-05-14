@@ -1,0 +1,59 @@
+#searchbarbutton {
+  height: 45px;
+  width: 55px;
+  position: relative;
+  margin-right: -2px;
+  background-color: rgb(221, 221, 241);
+}
+
+#searchbarbutton svg {
+  height: 25px;
+  width: 35px;
+  position: relative;
+  left: -3px;
+}
+
+#searchbarbutton svg path {
+  fill: #4285f4;
+}
+
+#searchbar {
+  width: 625px;
+  height: 45px;
+  border-radius: 100px;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 16px;
+  position: relative;
+  bottom: 5px;
+  overflow: hidden;
+  display: flex;
+  z-index: 100;
+}
+
+#searchbar:hover {
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#searchbar > input {
+  height: 45px;
+  border-style: none;
+  font-size: 16px;
+  line-height: 45px;
+  padding-left: 20px;
+  flex: 1;
+}
+
+#searchbar > input:focus {
+  outline: none;
+}
+
+#searchbar button {
+  border: none;
+  cursor: pointer;
+}
+
+#searchbar button:focus {
+  outline: none;
+}

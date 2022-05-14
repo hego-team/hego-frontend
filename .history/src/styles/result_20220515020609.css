@@ -1,0 +1,38 @@
+body {
+    min-height: 100%;
+    position: relative;
+}
+
+#searchbar {
+  width: 625px;
+  height: 45px;
+  border-radius: 100px;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 16px;
+  position: relative;
+  bottom: 5px;
+  overflow: hidden;
+  display: flex;
+  z-index: 100;
+}
+
+#searchbar:hover {
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+#searchbar > input:focus {
+  outline: none;
+}
+
+#searchbarbutton {
+  height: 45px;
+  width: 55px;
+  position: relative;
+  margin-right: -2px;
+  background-color: white;
+}
+
+

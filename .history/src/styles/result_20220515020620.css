@@ -1,0 +1,16 @@
+body {
+    min-height: 100%;
+    position: relative;
+}
+
+
+
+#searchbarbutton {
+  height: 45px;
+  width: 55px;
+  position: relative;
+  margin-right: -2px;
+  background-color: white;
+}
+
+

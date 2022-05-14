@@ -1,0 +1,49 @@
+.search {
+  display: block;
+  margin: auto;
+  margin-top: 10%; }
+
+.as_search {
+  margin: auto;
+  padding: auto; }
+
+.title {
+  color: #d93025;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 20px; }
+
+.overlap {
+  position: relative; }
+
+.logo-subtext {
+  color: #4285f4;
+  font: 16px/16px roboto-regular, arial, sans-serif;
+  white-space: nowrap;
+  position: absolute;
+  margin-left: 60%; }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; }
+
+.padding {
+  padding-left: 35px; }
+
+#big-logo {
+  width: 300px; }
+
+#google-button {
+  background-color: #f2f2f2;
+  color: rgba(0, 0, 0, 0.473);
+  border: none;
+  position: center; }
+
+
+#q {
+  border-radius: 50px;
+  margin: auto;
+  padding-left: 20px; }
+
