@@ -1,16 +1,16 @@
 <template>
     <div id="searchEngine">
         <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="search.html">
+            <a class="navbar-brand" href="home">
                 <img src="../assets/img/google-logo.png" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
                 Google
             </a>
             <ul class="nav justify-content-end">
                 <li class="nav-item">
-                <a class="nav-link" href="images_search.html">Images</a>
+                <a class="nav-link" href="images_search">Images</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="adv_search.html">Advanced Search</a>
+                <a class="nav-link" href="adv_search">Advanced Search</a>
                 </li>
             </ul>
         </nav>
