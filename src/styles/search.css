@@ -29,6 +29,10 @@
   margin-right: auto;
   width: 50%; }
 
+.search-form {
+  height: calc(1.5em + 0.75rem + 10px);
+}
+
 .padding {
   padding-left: 35px; }
 

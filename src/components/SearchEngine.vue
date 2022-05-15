@@ -4,13 +4,13 @@
     <NavMenu></NavMenu>
     <div class="search">
       <a href="#" >
-          <img class="center" src="../assets/img/googlelogo_color.png" alt="Google-Logo" id="big-logo">
+          <img class="center" src="../assets/img/hugo.png" alt="Google-Logo" id="big-logo">
       </a>
       <div class="form-group" style="margin-top: 15px;">
-        <input type="text center" class="form-control col-6" id="q" name="q" placeholder="Search" v-model="query">
+        <input type="text center" class="search-form form-control col-6" id="q" name="q" placeholder="Search" v-model="query">
       </div>
       <div class="form-group center padding">
-          <button type="submit" class="btn btn-primary" id="google-button" v-on:click="submit">Google Search</button>
+          <button type="submit" class="btn btn-primary" id="google-button" v-on:click="submit">HUGO Search</button>
       </div>
     </div>
   </div>

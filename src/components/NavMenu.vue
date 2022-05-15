@@ -2,8 +2,7 @@
     <div id="searchEngine">
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="home">
-                <img src="../assets/img/google-logo.png" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
-                Google
+                HUGO
             </a>
             <ul class="nav justify-content-end">
                 <li class="nav-item">
