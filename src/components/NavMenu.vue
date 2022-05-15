@@ -2,7 +2,7 @@
     <div id="searchEngine">
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="home">
-                HUGO
+                HEGO
             </a>
             <ul class="nav justify-content-end">
                 <li class="nav-item">
